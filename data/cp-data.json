@@ -1,0 +1,276 @@
+[
+    {
+        "name": "Kotlin Heroes: Practice 9",
+        "url": "https://codeforces.com/contestRegistration/1645",
+        "start_time": "2022-02-22T13:35:00.000Z",
+        "end_time": "2022-03-01T13:35:00.000Z",
+        "duration": "604800",
+        "in_24_hours": "Yes",
+        "status": "CODING",
+        "platform": "codeforces"
+    },
+    {
+        "name": "Codeforces Round #774 (Div. 2)",
+        "url": "https://codeforces.com/contestRegistration/1646",
+        "start_time": "2022-03-04T15:35:00.000Z",
+        "end_time": "2022-03-04T17:35:00.000Z",
+        "duration": "7200",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "codeforces"
+    },
+    {
+        "name": "Codeforces Round #775 (Div. 2)",
+        "url": "https://codeforces.com/contestRegistration/1647",
+        "start_time": "2022-03-11T14:35:00.000Z",
+        "end_time": "2022-03-11T16:35:00.000Z",
+        "duration": "7200",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "codeforces"
+    },
+    {
+        "name": "TCO22 Algorithm Round 1A",
+        "url": "https://www.topcoder.com/challenges",
+        "start_time": "2022-04-16T16:00:00.000Z",
+        "end_time": "2022-04-16T18:00:00.000Z",
+        "duration": "7200.0",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "top_coder"
+    },
+    {
+        "name": "TCO22 Algorithm Round 1B",
+        "url": "https://www.topcoder.com/challenges",
+        "start_time": "2022-04-27T11:00:00.000Z",
+        "end_time": "2022-04-27T13:00:00.000Z",
+        "duration": "7200.0",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "top_coder"
+    },
+    {
+        "name": "TCO22 Algorithm Round 2A",
+        "url": "https://www.topcoder.com/challenges",
+        "start_time": "2022-05-21T16:00:00.000Z",
+        "end_time": "2022-05-21T18:00:00.000Z",
+        "duration": "7200.0",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "top_coder"
+    },
+    {
+        "name": "TCO22 Algorithm Round 2B",
+        "url": "https://www.topcoder.com/challenges",
+        "start_time": "2022-06-01T11:00:00.000Z",
+        "end_time": "2022-06-01T13:00:00.000Z",
+        "duration": "7200.0",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "top_coder"
+    },
+    {
+        "name": "TCO22 Algorithm Round 3",
+        "url": "https://www.topcoder.com/challenges",
+        "start_time": "2022-07-07T11:00:00.000Z",
+        "end_time": "2022-07-07T13:00:00.000Z",
+        "duration": "7200.0",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "top_coder"
+    },
+    {
+        "name": "TCO22 Algorithm Round 4",
+        "url": "https://www.topcoder.com/challenges",
+        "start_time": "2022-07-30T16:00:00.000Z",
+        "end_time": "2022-07-30T18:00:00.000Z",
+        "duration": "7200.0",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "top_coder"
+    },
+    {
+        "name": "AtCoder Beginner Contest 242",
+        "url": "https://atcoder.jp/contests/abc242",
+        "start_time": "2022-03-05T12:00:00.000Z",
+        "end_time": "2022-03-05T13:40:00.000Z",
+        "duration": "6000",
+        "rated_range": " - 1999",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "at_coder"
+    },
+    {
+        "name": "AtCoder Beginner Contest 243",
+        "url": "https://atcoder.jp/contests/abc243",
+        "start_time": "2022-03-12T12:00:00.000Z",
+        "end_time": "2022-03-12T13:40:00.000Z",
+        "duration": "6000",
+        "rated_range": " - 1999",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "at_coder"
+    },
+    {
+        "name": "AtCoder Beginner Contest 244",
+        "url": "https://atcoder.jp/contests/abc244",
+        "start_time": "2022-03-19T12:00:00.000Z",
+        "end_time": "2022-03-19T13:40:00.000Z",
+        "duration": "6000",
+        "rated_range": " - 1999",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "at_coder"
+    },
+    {
+        "name": "AtCoder Beginner Contest 245",
+        "url": "https://atcoder.jp/contests/abc245",
+        "start_time": "2022-03-26T12:00:00.000Z",
+        "end_time": "2022-03-26T13:40:00.000Z",
+        "duration": "6000",
+        "rated_range": " - 1999",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "at_coder"
+    },
+    {
+        "name": "CodeChef Starters 32",
+        "url": "https://www.codechef.com/START32",
+        "start_time": "2022-03-30 14:30:00 UTC",
+        "end_time": "2022-03-30 17:30:00 UTC",
+        "duration": "10800",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "March Long 2022 - II (Rated for Div 3 and Div 4)",
+        "url": "https://www.codechef.com/MARCH222",
+        "start_time": "2022-03-25 09:30:00 UTC",
+        "end_time": "2022-03-28 09:30:00 UTC",
+        "duration": "259200",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "CodeChef Starters 31",
+        "url": "https://www.codechef.com/START31",
+        "start_time": "2022-03-23 14:30:00 UTC",
+        "end_time": "2022-03-23 17:30:00 UTC",
+        "duration": "10800",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "March Lunchtime 2022 ",
+        "url": "https://www.codechef.com/LTIME106",
+        "start_time": "2022-03-19 14:30:00 UTC",
+        "end_time": "2022-03-19 17:30:00 UTC",
+        "duration": "10800",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "CodeChef Starters 30",
+        "url": "https://www.codechef.com/START30",
+        "start_time": "2022-03-16 14:30:00 UTC",
+        "end_time": "2022-03-16 17:30:00 UTC",
+        "duration": "10800",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "March Long 2022 - I (Rated for Div 3 and Div 4)",
+        "url": "https://www.codechef.com/MARCH221",
+        "start_time": "2022-03-11 14:30:00 UTC",
+        "end_time": "2022-03-14 14:30:00 UTC",
+        "duration": "259200",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "CodeChef Starters 29",
+        "url": "https://www.codechef.com/START29",
+        "start_time": "2022-03-09 14:30:00 UTC",
+        "end_time": "2022-03-09 17:30:00 UTC",
+        "duration": "10800",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "Clash Wildcard",
+        "url": "https://www.codechef.com/CLWC2022",
+        "start_time": "2022-03-07 14:30:00 UTC",
+        "end_time": "2022-03-07 16:30:00 UTC",
+        "duration": "7200",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "CP Titans 2.0",
+        "url": "https://www.codechef.com/CPTI2O22",
+        "start_time": "2022-03-06 11:30:00 UTC",
+        "end_time": "2022-03-06 13:30:00 UTC",
+        "duration": "7200",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "March Cook-Off 2022",
+        "url": "https://www.codechef.com/COOK139",
+        "start_time": "2022-03-05 14:30:00 UTC",
+        "end_time": "2022-03-05 17:00:00 UTC",
+        "duration": "9000",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "CodeChef Starters 28 (Rated for Div2, Div3, Div4)",
+        "url": "https://www.codechef.com/START28",
+        "start_time": "2022-03-02 14:30:00 UTC",
+        "end_time": "2022-03-02 17:30:00 UTC",
+        "duration": "10800",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "February Lunchtime 2022",
+        "url": "https://www.codechef.com/LTIME105",
+        "start_time": "2022-03-01 14:30:00 UTC",
+        "end_time": "2022-03-01 17:30:00 UTC",
+        "duration": "10800",
+        "in_24_hours": "Yes",
+        "status": "BEFORE",
+        "platform": "code_chef"
+    },
+    {
+        "name": "Weekly Contest 283",
+        "url": "https://leetcode.com/contest/",
+        "start_time": "2022-03-06T02:30:00.000Z",
+        "end_time": "2022-03-06T04:00:00.000Z",
+        "duration": "5400",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "leet_code"
+    },
+    {
+        "name": "Biweekly Contest 73",
+        "url": "https://leetcode.com/contest/",
+        "start_time": "2022-03-05T14:30:00.000Z",
+        "end_time": "2022-03-05T16:00:00.000Z",
+        "duration": "5400",
+        "in_24_hours": "No",
+        "status": "BEFORE",
+        "platform": "leet_code"
+    }
+]
