@@ -36,8 +36,8 @@ class ContestSearch:
 
             contest_json_obj = json.dumps(self.cp_data, indent=4)
 
-            with open("./data/cp-data.json", "w") as file:
-                file.write(contest_json_obj)
+            # with open("./data/cp-data.json", "w") as file:
+            #     file.write(contest_json_obj)
 
     def get_ml_contests(self):
         # Get access to the url
@@ -65,10 +65,10 @@ class ContestSearch:
 
             self.ml_data.append(contest_data)
 
-        contest_json_obj = json.dumps(self.ml_data, indent=4)
+        # contest_json_obj = json.dumps(self.ml_data, indent=4)
 
-        with open("./data/ml-data.json", "w") as file:
-            file.write(contest_json_obj)
+        # with open("./data/ml-data.json", "w") as file:
+        #     file.write(contest_json_obj)
 
     def get_hackathon_contests(self):
         self.driver.get(HACKATHON_URL)
@@ -89,8 +89,8 @@ class ContestSearch:
             contest_data["end_time"] = contest_ele.find_element_by_css_selector(".submission-period").get_attribute("textContent").split(" - ")[1]
             self.hackathon_data.append(contest_data)
 
-        contest_json_obj = json.dumps(self.hackathon_data, indent = 4)
+        # contest_json_obj = json.dumps(self.hackathon_data, indent = 4)
 
-        with open("./data/hackathon-data.json", "w") as file:
-            file.write(contest_json_obj)
+        # with open("./data/hackathon-data.json", "w") as file:
+        #     file.write(contest_json_obj)
             # start_end_time
